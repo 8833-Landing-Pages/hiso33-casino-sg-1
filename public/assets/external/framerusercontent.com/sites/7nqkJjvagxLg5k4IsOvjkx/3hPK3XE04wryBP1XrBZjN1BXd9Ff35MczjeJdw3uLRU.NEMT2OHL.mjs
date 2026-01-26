@@ -14620,7 +14620,7 @@ var xl = {
                                                 backgroundImage:
                                                   "linear-gradient(46deg, var(--token-c833264f-ec0f-44ad-b255-ce64174e8d7c, rgb(184, 142, 58)) 23.25978322072072%, rgb(255, 216, 138) 46.19228603603604%, rgb(214, 172, 88) 53.686303490990994%, rgb(166, 125, 45) 63.37098817567568%, rgba(184, 142, 58, 1) 85.26006475225223%)",
                                               },
-                                              children: "JOIN THE",
+                                              children: "SGD 33",
                                             }),
                                           }),
                                           e("p", {
@@ -14641,7 +14641,7 @@ var xl = {
                                                 backgroundImage:
                                                   "linear-gradient(46deg, var(--token-c833264f-ec0f-44ad-b255-ce64174e8d7c, rgb(184, 142, 58)) 23.25978322072072%, rgb(255, 216, 138) 46.19228603603604%, rgb(214, 172, 88) 53.686303490990994%, rgb(166, 125, 45) 63.37098817567568%, rgba(184, 142, 58, 1) 85.26006475225223%)",
                                               },
-                                              children: "ELITES",
+                                              children: "1x Turnover",
                                             }),
                                           }),
                                         ],
@@ -14670,7 +14670,7 @@ var xl = {
                                                 backgroundImage:
                                                   "linear-gradient(46deg, rgb(222, 172, 73) 23.2598%, rgb(255, 216, 138) 46.1923%, rgb(214, 172, 88) 53.686299999999996%, rgb(184, 136, 42) 63.371%, rgb(227, 173, 66) 75.2816%, var(--token-fbe37a84-999e-46c2-8ba1-03963d6a6ea9, rgb(255, 218, 145)) 84.8923%)",
                                               },
-                                              children: "JOIN THE",
+                                              children: "SGD 33",
                                             }),
                                           }),
                                           e("p", {
@@ -14693,7 +14693,7 @@ var xl = {
                                                 backgroundImage:
                                                   "linear-gradient(46deg, rgb(222, 172, 73) 23.2598%, rgb(255, 216, 138) 46.1923%, rgb(214, 172, 88) 53.686299999999996%, rgb(184, 136, 42) 63.371%, rgb(227, 173, 66) 75.2816%, var(--token-fbe37a84-999e-46c2-8ba1-03963d6a6ea9, rgb(255, 218, 145)) 84.8923%)",
                                               },
-                                              children: "ELITES",
+                                              children: "1x Turnover",
                                             }),
                                           }),
                                         ],
@@ -14722,7 +14722,7 @@ var xl = {
                                                 backgroundImage:
                                                   "linear-gradient(46deg, rgb(222, 172, 73) 23.2598%, rgb(255, 216, 138) 46.1923%, rgb(214, 172, 88) 53.686299999999996%, rgb(184, 136, 42) 63.371%, rgb(227, 173, 66) 75.2816%, var(--token-fbe37a84-999e-46c2-8ba1-03963d6a6ea9, rgb(255, 218, 145)) 84.8923%)",
                                               },
-                                              children: "JOIN THE",
+                                              children: "SGD 33",
                                             }),
                                           }),
                                           e("p", {
@@ -14745,7 +14745,7 @@ var xl = {
                                                 backgroundImage:
                                                   "linear-gradient(46deg, rgb(222, 172, 73) 23.2598%, rgb(255, 216, 138) 46.1923%, rgb(214, 172, 88) 53.686299999999996%, rgb(184, 136, 42) 63.371%, rgb(227, 173, 66) 75.2816%, var(--token-fbe37a84-999e-46c2-8ba1-03963d6a6ea9, rgb(255, 218, 145)) 84.8923%)",
                                               },
-                                              children: "ELITES",
+                                              children: "1x Turnover",
                                             }),
                                           }),
                                         ],
@@ -14774,7 +14774,7 @@ var xl = {
                                               backgroundImage:
                                                 "linear-gradient(46deg, var(--token-c833264f-ec0f-44ad-b255-ce64174e8d7c, rgb(184, 142, 58)) 23.25978322072072%, rgb(255, 216, 138) 46.19228603603604%, rgb(214, 172, 88) 53.686303490990994%, rgb(166, 125, 45) 63.37098817567568%, rgba(184, 142, 58, 1) 85.26006475225223%)",
                                             },
-                                            children: "JOIN THE",
+                                            children: "SGD 33",
                                           }),
                                         }),
                                         e("p", {
@@ -14795,7 +14795,7 @@ var xl = {
                                               backgroundImage:
                                                 "linear-gradient(46deg, var(--token-c833264f-ec0f-44ad-b255-ce64174e8d7c, rgb(184, 142, 58)) 23.25978322072072%, rgb(255, 216, 138) 46.19228603603604%, rgb(214, 172, 88) 53.686303490990994%, rgb(166, 125, 45) 63.37098817567568%, rgba(184, 142, 58, 1) 85.26006475225223%)",
                                             },
-                                            children: "ELITES",
+                                            children: "1x Turnover",
                                           }),
                                         }),
                                       ],
