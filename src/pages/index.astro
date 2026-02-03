@@ -1,46 +1,27 @@
 ---
-import "../styles/framer.css";
 import "../styles/tailwind.css";
-import FramerMain from "../components/framer/FramerMain.astro";
-import FramerScripts from "../components/framer/FramerScripts.astro";
+import { HomePage } from "../components/home/HomePage";
 ---
-<head>
-    <meta charset="utf-8">
-
-
-    <!-- Start of headStart -->
-
-    <meta name="robots" content="index, follow">
-    <meta name="google-site-verification" content="QugY1aKjB3QVmGbzuZkWto4sLdznwdIVzEwQlKyDpb0">
-    <link rel="canonical" href="/assets/external/www.hiso33.casino/">
-    <!-- End of headStart -->
-    <meta name="viewport" content="width=device-width">
-    <meta name="generator" content="Framer 401032d">
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
     <title>Hiso33 - The Best Online Casino in Singapore</title>
-    <meta name="description" content="Experience the thrill of online gambling at Hiso33. Explore our wide selection of casino games today to win rewards!
-">
-    <meta name="framer-search-index"
-          content="https://framerusercontent.com/sites/7nqkJjvagxLg5k4IsOvjkx/searchIndex-RfxNIUFhppl-.json">
-    <link href="/assets/external/framerusercontent.com/images/HYpBQ5T5bxLKgGkHZXruf6Y8DPU.png" rel="icon"
-          media="(prefers-color-scheme: light)">
-    <link href="/assets/external/framerusercontent.com/images/HYpBQ5T5bxLKgGkHZXruf6Y8DPU.png" rel="icon"
-          media="(prefers-color-scheme: dark)">
-    <!-- Open Graph / Facebook -->
-    <meta property="og:type" content="website">
-    <meta property="og:title" content="Hiso33 - The Best Online Casino in Singapore">
-    <meta property="og:description" content="Experience the thrill of online gambling at Hiso33. Explore our wide selection of casino games today to win rewards!
-">
-    <!-- Twitter -->
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Hiso33 - The Best Online Casino in Singapore">
-    <meta name="twitter:description" content="Experience the thrill of online gambling at Hiso33. Explore our wide selection of casino games today to win rewards!
-">
+    <meta
+      name="description"
+      content="Experience the thrill of online gambling at Hiso33. Explore our wide selection of casino games today to win rewards!"
+    />
+    <link rel="canonical" href="https://hiso33playbest.com/" />
+    <meta name="robots" content="index, follow" />
 
-    <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
-    <meta name="robots" content="max-image-preview:large"><!-- Start of headEnd -->
-
-    <!-- End of headEnd -->
-        <!-- Meta Pixel Code -->
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Bakbak+One&family=Bebas+Neue&family=Inter:wght@100;200;300;400;500;600;700;800;900&family=Poppins:wght@400;600;900&display=swap"
+    />
+  
+    <!-- Meta Pixel Code -->
     <script>
     !function(f,b,e,v,n,t,s)
     {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
@@ -57,8 +38,9 @@ import FramerScripts from "../components/framer/FramerScripts.astro";
     src="https://www.facebook.com/tr?id=728273773302914&ev=PageView&noscript=1"
     /></noscript>
     <!-- End Meta Pixel Code -->
-</head>
-<body class="framer-body-augiA20Il-framer-qh6S5">
-  <FramerMain />
-  <FramerScripts />
-</body>
+
+  </head>
+  <body>
+    <HomePage client:load />
+  </body>
+</html>
